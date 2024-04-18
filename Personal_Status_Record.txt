@@ -1,0 +1,18 @@
+id_number,name,gender,birthdate,religion,status,address,job
+12345678912345,Muhammad Helmy,M,27/8/1997,Muslim,Single,October,Student
+12345678945678,Muhammad Ahmad,M,27/5/1998,Muslim,Married,Oboor,Burglar
+12345678915975,Shymaa,F,4/4/2004,Muslim,Widow,Fayoum,Programmer
+12345678963245,Salma,M,4/7/2000,Christian,Divorced,Banha,Doctor
+12345678914785,Abbas Kamel,M,4/7/1992,Jewish,Widower,Kafr Alsheikh,Police Officer
+12345678945217,Tawfeek Alhakeem,M,4/7/2000,Muslim,Single,October,Doctor
+12345715942651,Muhammad Salama,M,7/7/1998,Muslim,Single,Tanta,Lawyer
+47896514789512,Muhammad Tawfeeq,M,4/7/1992,Muslim,Single,Moqattam,Carpenter
+12347589631452Esam Alhadary,M,12/8/1999,Muslim,Single,October,Footballer
+14578931457415,Samy Gamal,M,7/7/2015,Jewish,Single,Oboor,Student
+12345796314574,Kareem Alsayed,M,27/8/1996,Christian,Widower,Cairo,Data Scientist
+47895452647567,Hosnya Saeed,F,7/7/1976,Muslim,Divorced,Monofya,Engineer
+12345678912458,Salma Esam,F,4/4/2004,Jewish,Single,Altagamoa,Student
+14726425874156,Hazem Ragheb,M,4/4/1989,Muslim,Married,Rehab,Graphic Designer
+47935415789145,Yehia Alsady,M,4/4/2003,Muslim,Single,Zayed,Content Creator
+75497563586,Zeyad Battat,M,4/4/1996,Muslim,Single,Madinty,TA
+1545786,Muhammad Helmy,M,27/8/1997,Muslim,Single,October,Student
